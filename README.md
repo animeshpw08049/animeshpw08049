@@ -13,7 +13,7 @@ I love learning about new technologies and designing efficient systems.
 <a href="https://www.linkedin.com/in/animesh-kashyap-614ba4136/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-grey?style=flat&logo=linkedin" />
 </a>  
-<a href="https://animeshkumar-portfolio.netlify.app/">
+<a href="https://animesh-kumar-portfolio.netlify.app/">
   <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-grey?style=flat&logo=portfolio" />
 </a> 
 
